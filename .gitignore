@@ -1,0 +1,11 @@
+# Visual Studio Code
+.vscode/
+
+# Python
+.pyenv/
+*.pyc
+
+# NodeJS
+node_modules/
+
+
