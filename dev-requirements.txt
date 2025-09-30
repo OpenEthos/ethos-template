@@ -1,0 +1,21 @@
+# Main project requirements
+-r requirements.txt
+
+# The leading testing framework, providing powerful fixtures and test discovery.
+pytest
+
+# Performs static type checking on Python code, mandatory for ensuring robust and less bug-prone APIs.
+mypy
+
+# An "uncompromising" code formatter that enforces consistent style automatically.
+black
+
+# A popular tool that combines pycodestyle (style guide enforcement) and PyFlakes (syntax checking).
+flake8
+
+# Automatically sorts imports alphabetically and separates them into sections.
+isort
+
+# Used for generating high-quality documentation from reStructuredText or Markdown.
+Sphinx
+  
