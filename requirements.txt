@@ -1,0 +1,5 @@
+pydantic>=2.11.9
+requests>=2.32.5
+PyYAML>=6.0.3
+pathlib>=2.3.6
+logging>=0.4.9.6
