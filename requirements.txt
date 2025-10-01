@@ -1,5 +1,29 @@
+# Data validation and settings management
 pydantic>=2.11.9
+
+# Type checking
+mypy>=1.18.2
+
+# HTTP requests
 requests>=2.32.5
+
+# YAML processing
 PyYAML>=6.0.3
+
+# File and path handling
 pathlib>=2.3.6
+
+# Logging
 logging>=0.4.9.6
+
+# NIST OSCAL
+compliance-trestle>=3.9.2
+
+# UUID generation
+uuid>=1.30
+
+# CLI
+click>=8.3.0
+
+# Text formatting
+rich>=14.1.0
